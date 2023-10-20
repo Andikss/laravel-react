@@ -1,9 +1,10 @@
 # Laravel-React
+
 <div style="display: flex">
-    <img src="https://ibb.co/VNWcfzf" style="vertical-align:middle"> 
+    <img src="https://i.ibb.co/sPvd8N8/Screenshot-2023-10-20-204233.png" alt="Laravel React Image">
 </div>
 
-Laravel is a PHP framework that offers a bunch of features. Using Inertia.js, allows us to seamlessly integrate our frontend and backend within a single Laravel project. Here is an example of a Laravel setup with React.js using Vite and Inertia.js.
+Laravel is a PHP framework that offers a variety of features. Using Inertia.js allows us to seamlessly integrate our frontend and backend within a single Laravel project. Below is an example of a Laravel setup with React.js using Vite and Inertia.js.
 
 ---
 
@@ -22,11 +23,5 @@ Laravel is a PHP framework that offers a bunch of features. Using Inertia.js, al
      ```
 
 > Yes, you're right! That's pretty much it.
-
-## Additional Resources
-
-- [Laravel Documentation](https://laravel.com/)
-- [React Documentation](https://react.dev/)
-- [Inertia.js Documentation](https://inertiajs.com/)
 
 Happy coding! 😇
