@@ -4,7 +4,7 @@
 
 ---
 
-Laravel is a PHP framework that offers a variety of features. Using Inertia.js allows us to seamlessly integrate our frontend and backend within a single Laravel project. Below is an example of a Laravel setup with React.js using Vite and Inertia.js.
+Laravel is a PHP framework that offers a bunch of features. Using Inertia.js allows us to seamlessly integrate our frontend and backend within a single Laravel project. Here is an example of a Laravel setup with React.js using Vite and Inertia.js.
 
 ---
 
